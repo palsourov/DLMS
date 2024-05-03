@@ -11,3 +11,25 @@ nav {
 .login:hover {
   color: white;
 }
+.bannerImg {
+   height:580px ;
+   width: 100%;
+}
+.bannerCaption1{
+  margin-bottom: 245px;
+  background: #1a374da1;
+  width: 29%;
+  text-align: center;
+  margin-left: 23rem;
+  border-radius: 4px;
+  text-shadow: 4px 3px black;
+}
+.bannerCaption{
+  margin-bottom: 55px;
+  background: #1a374d63;
+  width: 50%;
+  text-align: center;
+  margin-left: 12rem;
+  border-radius: 4px;
+  text-shadow: 4px 3px black;
+}
