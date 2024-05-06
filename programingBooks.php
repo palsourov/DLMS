@@ -484,6 +484,10 @@
   <!-- HTML & CSS Books END -->
     
  <!-- PROGRAMMING BOOK SECTION END--> 
+
+ <?php 
+        require_once("footer.php");
+  ?>
   
 <!-- THIS IS FOOTER SECTION -->
  <?php 
