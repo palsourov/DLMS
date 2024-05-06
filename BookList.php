@@ -21,9 +21,9 @@
             class="col-md-4 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="./img/Science.jpg" class="card-img-top" alt="..." />
+              <img src="./img./mathBookImg/math.png" class="card-img-top" alt="..." />
               <div class="card-body">
-                <p class="card-text">29 Different Types of Science books...</p>
+                <p class="card-text">29 Different Types of Math books...</p>
               </div>
               <div class="btn btn-outline-secondary">View More</div>
             </div>
