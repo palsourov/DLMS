@@ -9,6 +9,7 @@
  <!-- C _programmingBooks -->
     <section class="book_section">
       <h1 style="text-align: center; margin-top: 70px;"> C Programming Books</h1>
+      <p style="text-align:center">Location: SeL:2 ,colum:1</p>
       <div class="container book">
             
         <div class="row">
@@ -124,6 +125,7 @@
   <!-- JAVA _programmingBooks START -->
   <section class="book_section">
       <h1 style="text-align: center; margin-top: 70px;"> JAVA Programming Books</h1>
+      <p style="text-align:center">Location: SeL:2 ,colum:2</p>
       <div class="container book">
             
         <div class="row">
@@ -237,13 +239,14 @@
 
   <!-- PYTHON _programmingBooks START -->
   <section class="book_section">
+       
       <h1 style="text-align: center; margin-top: 70px;"> PYTHON Programming Books</h1>
-      <div class="container book">
-            
+      <p style="text-align:center">Location: SeL:2 ,colum:3</p>
+        
+      <div class="container book"> 
+        
         <div class="row">
-          <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
-          >
+          <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center" >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/phy1.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
@@ -253,7 +256,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/phy2.jpg" class="card-img-top" alt="..." />
@@ -264,7 +267,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/phy3.jpg" class="card-img-top" alt="..." />
@@ -277,7 +280,7 @@
         </div>
         <div class="row mt-5">
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/phy4.jpg" class="card-img-top" alt="..." />
@@ -288,7 +291,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/phy5.jpg" class="card-img-top" alt="..." />
@@ -299,7 +302,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/phy6.jpg" class="card-img-top" alt="..." />
@@ -319,11 +322,12 @@
   <!-- JavaScript _programmingBooks START -->
   <section class="book_section">
       <h1 style="text-align: center; margin-top: 70px;"> JavaScript Programming Books</h1>
+      <p style="text-align:center">Location: SeL:2 ,colum:4</p>
       <div class="container book">
             
         <div class="row">
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/js.png" class="card-img-top" alt="..." />
@@ -334,7 +338,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/js1.png" class="card-img-top" alt="..." />
@@ -345,7 +349,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/js2.png" class="card-img-top" alt="..." />
@@ -358,7 +362,7 @@
         </div>
         <div class="row mt-5">
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/js3.png" class="card-img-top" alt="..." />
@@ -369,7 +373,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/js4.png" class="card-img-top" alt="..." />
@@ -380,7 +384,7 @@
             </div>
           </div>
           <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
               <img src="./img/js5.png" class="card-img-top" alt="..." />
@@ -396,6 +400,88 @@
       </div>
     </section>
   <!-- JavaScript _programmingBooks END -->
+
+  <!-- HTML & CSS Books START -->
+  <section class="book_section">
+      <h1 style="text-align: center; margin-top: 70px;">HTML & CSS Programming Books</h1>
+      <p style="text-align:center">Location: SeL:2 ,colum:5</p>
+      <div class="container book">
+            
+        <div class="row">
+          <div
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
+          >
+            <div class="card p-2" style="width: 18rem">
+              <img src="./img/html1.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+               
+              </div>
+              
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
+          >
+            <div class="card p-2" style="width: 18rem">
+              <img src="./img/html2.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+               
+              </div>
+             
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
+          >
+            <div class="card p-2" style="width: 18rem">
+              <img src="./img/html3.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+                
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        <div class="row mt-5">
+          <div
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
+          >
+            <div class="card p-2" style="width: 18rem">
+              <img src="./img/html4.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+               
+              </div>
+              
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
+          >
+            <div class="card p-2" style="width: 18rem">
+              <img src="./img/html5.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+                
+              </div>
+              
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
+          >
+            <div class="card p-2" style="width: 18rem">
+              <img src="./img/html6.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+              
+              </div>s
+              
+            </div>
+          </div>
+        </div>
+       
+        </div>
+      </div>
+    </section>
+  <!-- HTML & CSS Books END -->
     
  <!-- PROGRAMMING BOOK SECTION END--> 
   

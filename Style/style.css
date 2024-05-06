@@ -33,6 +33,7 @@ nav {
   border-radius: 4px;
   text-shadow: 4px 3px black;
 }
+ /*BOOK SECTION*/
 .book {
   margin-top: 4rem;
 }
@@ -45,3 +46,5 @@ nav {
   text-align: center;
   margin-left: 16px;
 }
+
+/*PROGRAMING BOOKS*/
