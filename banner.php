@@ -1,3 +1,6 @@
+<?php 
+        require_once("header.php");
+    ?>
 <section class="banner" style="height: 50%">
       <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-indicators">

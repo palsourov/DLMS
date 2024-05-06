@@ -10,12 +10,14 @@
       integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="Style/style.css" />
     
   </head>
   <body>
     <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-dark d-flex">
+    <nav class="navbar navbar-expand-lg navbar-dark d-flex fixed-top">
       <div class="container">
         <!--Logo-->
         <a class="logo navbar-brand me-auto d-flex" href="#">
@@ -43,12 +45,7 @@
           aria-labelledby="offcanvasNavbarLabel"
         >
           <div class="offcanvas-header border-bottom text-white">
-            <img
-              src="https://thumbs.dreamstime.com/z/hand-book-logo-illustration-art-background-43965136.jpg"
-              alt=""
-              height="40px"
-              width="40px"
-            />
+          <img src="./img/logo.jpg" alt="" height="40px" width="40px" />
             <h2 class="offcanvas-title" id="offcanvasNavbarLabel">DLMS.</h2>
           </div>
 
