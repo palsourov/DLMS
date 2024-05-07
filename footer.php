@@ -64,9 +64,9 @@
 
     <div class="col-md-3">
       <h4>Follow Us</h4>
-     <a class="social_networks" href="https://www.facebook.com/metropolitanuniversity/"><i class="bx bxl-facebook"></i></a>
-     <a class="social_networks" href="https://www.linkedin.com/company/metropolitan-university001"> <i class="bx bxl-linkedin"></i></a>
-     <a class="social_networks"  href="https://www.youtube.com/MetropolitanUniversityBangladesh"> <i class='bx bxl-youtube'   ></i></a>
+     <a class="social_networks " href="https://www.facebook.com/metropolitanuniversity/"><i class="fs-3 p-2 text-white rounded-circle bx bxl-facebook " style='background:#5F9DF7' ></i></a>
+     <a class="social_networks " href="https://www.linkedin.com/company/metropolitan-university001"> <i class="fs-3 p-2 text-white rounded-circle bx bxl-linkedin" style='background:#5F9DF7'></i></a>
+     <a class="social_networks "  href="https://www.youtube.com/MetropolitanUniversityBangladesh"> <i class='fs-3 p-2 text-white rounded-circle bx bxl-youtube' style='background:#5F9DF7'  ></i></a>
     </div>
 
 

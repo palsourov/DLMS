@@ -84,15 +84,3 @@ footer .footer_links {
 footer a:hover {
   color: #47b5ff;
 }
-
-.social_networks {
-  border-radius: 50px;
-  background: #47b5ff;
-  display: inline-block;
-  margin-top: 1rem;
-}
-.social_networks i {
-  font-size: 25px;
-  margin: 8px;
-  color: white;
-}
