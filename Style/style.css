@@ -45,11 +45,7 @@ nav {
   border-radius: 4px;
   text-shadow: 4px 3px black;
 }
-<<<<<<< HEAD
-/*BOOK SECTION*/
-=======
-/* BOOK SECTION */
->>>>>>> 014a876b640c5a0363aa0bcca3855cb9965e5f38
+
 .book {
   margin-top: 4rem;
 }
@@ -62,8 +58,7 @@ nav {
   text-align: center;
   margin-left: 16px;
 }
-<<<<<<< HEAD
-=======
+
 /* Footer start */
 
 .footer_section {
@@ -99,4 +94,3 @@ footer a:hover {
   margin: 8px;
   color: white;
 }
->>>>>>> 014a876b640c5a0363aa0bcca3855cb9965e5f38
