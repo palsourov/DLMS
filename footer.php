@@ -3,7 +3,7 @@
     ?>
 
     <!-- FOOTER SECTION START -->
-<footer class="footer  mt-5 pt-5 pb-4 text-white" >
+<footer class="footer pt-5 text-white" >
 
 <div class="container ">
   <div class="row ">

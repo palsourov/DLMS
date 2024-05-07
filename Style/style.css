@@ -63,6 +63,8 @@ nav {
 
 .footer {
   background: #1a374d;
+  margin-top: 8rem;
+  border-top: 1px solid #ffff;
 }
 .footer_dlms {
   font-weight: 600;
