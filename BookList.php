@@ -71,9 +71,9 @@
             class="col-md-4 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="./img/commic.jpg" class="card-img-top" alt="..." />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jZ04B180j7HXTQX3npT3upmRTxyChYtPUvhWHjERbw&s" class="card-img-top" alt="..." />
               <div class="card-body">
-                <p class="card-text">25 Different Types of commic books...</p>
+                <p class="card-text">25 Different Types of Story books...</p>
               </div>
               <div class="btn btn-outline-secondary">View More</div>
             </div>
