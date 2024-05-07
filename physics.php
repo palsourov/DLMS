@@ -4,10 +4,10 @@
     ?>
 <!-- THIS IS HEADER SECTION END-->
 
-<!--FECTIONBOOKS START -->
+<!--PHAYSICBOOKS START -->
   <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">Fection Books</h1>
-      <p style="text-align:center">Location: SeL:8 ,row:6</p>
+      <h1 style="text-align: center; margin-top: 70px;">Physics Books</h1>
+      <p style="text-align:center">Location: SeL:5 ,Coloum:10</p>
       <div class="container book">
             
         <div class="row">
@@ -15,7 +15,7 @@
             class=" col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZgcG5SUlDv5_xSPqEUhvjwQK46mADapZtNbmrr6_vw&s" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/91VVoMGi8OL._AC_UF1000,1000_QL80_.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
                
               </div>
@@ -26,7 +26,7 @@
             class=" col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiF4a85TSCY0LHK9CjV_APTHioFBJgL_vyZeBuyvS-6g&s" class="card-img-top" alt="..." />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hDuKfzcpaZfZ7sNeOIJQwaF-yuDshXeTurVvLkEfS0K8nb6DuEoIm_Dqk3jCZsK7hXM&usqp=CAU" class="card-img-top" alt="..." />
               <div class="card-body">
                
               </div>
@@ -50,7 +50,7 @@
             class=" col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://images-na.ssl-images-amazon.com/images/I/71DRSBvfEmL._AC_UL600_SR600,600_.jpg" class="card-img-top" alt="..." />
+              <img src="https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Non_Major_Honours_Physics-1st_year_(DU_-Prof._S._M._Mokhsed_Ali-725a5-217023.jpeg" class="card-img-top" alt="..." />
               <div class="card-body">
                
               </div>
@@ -61,7 +61,7 @@
             class="  col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_HM6I7H6AmtIsCLcnY8vlALkhQGJFyueXdPsz74Hhg&s" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/51udOV4MyWL.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
                 
               </div>
@@ -72,7 +72,7 @@
             class=" col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKIsnmxVvnTem4hC65OJ73M43nc1ebYQahn1Lvy9OZX-o5eNA3SPVNhdbitsXvADQg8c&usqp=CAU" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/5193XokiuGL.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
               
               </div>
@@ -85,7 +85,7 @@
             class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoiKB2w34oypEfAe_1l1vJGJ2VHchrmvXJLQLOMz-gOQhhTQEF7c9LA8461geoWcWETQ&usqp=CAU" class="card-img-top" alt="..." />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4avdaP3NDMGsQJu07IF6YKJBCzIq8HQ9abRWADdpd__uJC9d9OPGGGoQlPoNrcwXS00&usqp=CAU" class="card-img-top" alt="..." />
               <div class="card-body">
                
               </div>
@@ -96,7 +96,7 @@
             class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://m.media-amazon.com/images/I/41FW38zKFNL.jpg" class="card-img-top" alt="..." />
+              <img src="https://static1.eboighar.com/thumbimages/Books/book_93332020-11-22_1606048064.jpg" alt="..." />
               <div class="card-body">
                
               </div>
@@ -107,7 +107,7 @@
             class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://m.media-amazon.com/images/I/61YewZXWLYL._AC_UF350,350_QL50_.jpg" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/41p-dgrKWeL._SL500_.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
                 
               </div>
@@ -120,7 +120,7 @@
             class=" col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://m.media-amazon.com/images/I/71QwPUc2HtL._AC_UF1000,1000_QL80_.jpg" />
+              <img src="https://m.media-amazon.com/images/I/71CwJW3GzuL._AC_UF1000,1000_QL80_.jpg" />
               <div class="card-body">
                
               </div>
@@ -131,7 +131,7 @@
             class="  col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83LfwwN4oVvC0IjZGAAUdgZvPWS1CazfL-rgnpVz6Tg&s" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/61DRt9-2Z0L._AC_UF1000,1000_QL80_.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
                 
               </div>
@@ -142,7 +142,7 @@
             class=" col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JwWNCUoIXmaa6EN6pEI1tEQRNIROqGwbAbC2-sMAUA&s" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/51LFy2AZ70L._SS400_.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
               
               </div>
@@ -155,7 +155,7 @@
             class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://cdn.thestorygraph.com/vdl3kdyw3g6lcshg5o8sr7s24i43" class="card-img-top" alt="..." />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTqB10zW_qV3lVvpCQx7NXyQpfBju822Um8QuwknOeq6Gk9O_KJx7TXX7qeHp6SxEqfU&usqp=CAU" alt="..." />
               <div class="card-body">
                
               </div>
@@ -166,7 +166,7 @@
             class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KJhnVtY5tM1SdvmWpjq07ElVUti9xHSJzzjuGpOMUKbClyw55HB-XZRfKLMy0RZD3NE&usqp=CAU" class="card-img-top" alt="..." />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtczS_K4YIoEzJ8qkT8fVo6qLdc3JhApWzGtVS8X4RzQ&s" class="card-img-top" alt="..." />
               <div class="card-body">
                
               </div>
@@ -177,7 +177,7 @@
             class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407757142i/22892415.jpg" class="card-img-top" alt="..." />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmX0p4_9CBIZ9P1RXQhr_iym28jWZ8VsL4YpbJoiYoeTs7fkWdceDGfPgPJo7k4pXyEVs&usqp=CAU" class="card-img-top" alt="..." />
               <div class="card-body">
                 
               </div>
@@ -188,7 +188,7 @@
       </div>
       
     </section>
-<!--FECTIONBOOKS END -->
+<!--PHYSICBOOKS END -->
 
   
 <!-- THIS IS FOOTER SECTION START -->

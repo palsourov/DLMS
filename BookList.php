@@ -24,9 +24,9 @@
             class="col-md-4 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="./img/Science.jpg" class="card-img-top" alt="..." />
+              <img src="./img./mathBookImg/math.png" class="card-img-top" alt="..." />
               <div class="card-body">
-                <p class="card-text">29 Different Types of Science books...</p>
+                <p class="card-text">29 Different Types of Math books...</p>
               </div>
               <div class="btn btn-outline-secondary">View More</div>
             </div>
@@ -61,10 +61,10 @@
             class="col-md-4 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="./img/bio.jpg" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/91xBg7rNZTL._AC_UF1000,1000_QL80_.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
                 <p class="card-text">
-                  10 Different Types of biography books...
+                  10 Different Types of Physics books...
                 </p>
               </div>
               <div class="btn btn-outline-secondary">View More</div>
@@ -74,9 +74,9 @@
             class="col-md-4 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="./img/commic.jpg" class="card-img-top" alt="..." />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jZ04B180j7HXTQX3npT3upmRTxyChYtPUvhWHjERbw&s" class="card-img-top" alt="..." />
               <div class="card-body">
-                <p class="card-text">25 Different Types of commic books...</p>
+                <p class="card-text">25 Different Types of Story books...</p>
               </div>
               <div class="btn btn-outline-secondary">View More</div>
             </div>
