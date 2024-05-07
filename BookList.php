@@ -58,10 +58,10 @@
             class="col-md-4 d-flex justify-content-center align-items-center"
           >
             <div class="card p-2" style="width: 18rem">
-              <img src="./img/bio.jpg" class="card-img-top" alt="..." />
+              <img src="https://m.media-amazon.com/images/I/91xBg7rNZTL._AC_UF1000,1000_QL80_.jpg" class="card-img-top" alt="..." />
               <div class="card-body">
                 <p class="card-text">
-                  10 Different Types of biography books...
+                  10 Different Types of Physics books...
                 </p>
               </div>
               <div class="btn btn-outline-secondary">View More</div>
