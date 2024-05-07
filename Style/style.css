@@ -45,6 +45,7 @@ nav {
   border-radius: 4px;
   text-shadow: 4px 3px black;
 }
+/*BOOK SECTION*/
 .book {
   margin-top: 4rem;
 }
@@ -56,39 +57,4 @@ nav {
   font-size: 14px;
   text-align: center;
   margin-left: 16px;
-}
-/* Footer start */
-
-footer {
-  background: #1a374d;
-}
-.footer_dlms {
-  font-weight: 600;
-}
-.address {
-  font-size: 13px;
-  line-height: 2;
-}
-footer h4 {
-  border-bottom: 1px solid #ffffff36;
-  padding-bottom: 10px;
-}
-footer .footer_links {
-  line-height: 3;
-  padding-left: 0;
-}
-footer a:hover {
-  color: #47b5ff;
-}
-
-.social_networks {
-  border-radius: 50px;
-  background: #47b5ff;
-  display: inline-block;
-  margin-top: 1rem;
-}
-.social_networks i {
-  font-size: 25px;
-  margin: 8px;
-  color: white;
 }
