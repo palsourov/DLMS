@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -60,7 +60,7 @@ nav {
 }
 /* Footer start */
 
-footer {
+.footer_section {
   background: #1a374d;
 }
 .footer_dlms {
