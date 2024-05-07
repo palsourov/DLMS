@@ -45,3 +45,11 @@ nav {
   text-align: center;
   margin-left: 16px;
 }
+.section-about{
+  margin-top: 60px;
+  
+}
+.section-about h3{
+  color: #1a374d;
+  font-weight: bold;
+}
