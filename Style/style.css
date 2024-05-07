@@ -33,6 +33,7 @@ nav {
   border-radius: 4px;
   text-shadow: 4px 3px black;
 }
+ /*BOOK SECTION*/
 .book {
   margin-top: 4rem;
 }
@@ -44,12 +45,4 @@ nav {
   font-size: 14px;
   text-align: center;
   margin-left: 16px;
-}
-.section-about{
-  margin-top: 60px;
-  
-}
-.section-about h3{
-  color: #1a374d;
-  font-weight: bold;
 }
