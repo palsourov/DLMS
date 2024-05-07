@@ -10,12 +10,12 @@
       integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
       crossorigin="anonymous"
     />
-<<<<<<< HEAD
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
-=======
+
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
->>>>>>> 014a876b640c5a0363aa0bcca3855cb9965e5f38
+
     <link rel="stylesheet" href="Style/style.css" />
   </head>
   <body>
@@ -25,7 +25,7 @@
         <!--Logo-->
         <a class="logo navbar-brand me-auto d-flex" href="#">
           <img
-            src="https://thumbs.dreamstime.com/z/hand-book-logo-illustration-art-background-43965136.jpg"
+            src="./img/logo.jpg"
             alt=""
             height="40px"
             width="40px"
