@@ -6,8 +6,8 @@
 
 <!--FECTIONBOOKS START -->
   <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">Fection Books</h1>
-      <p style="text-align:center">Location: SeL:8 ,row:6</p>
+      <h3 style="text-align: center; margin-top: 130px;">Fection Books</h3>
+      <p style="text-align:center">Location: SeL:8 ,Row:6</p>
       <div class="container book">
             
         <div class="row">

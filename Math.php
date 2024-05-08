@@ -7,9 +7,9 @@
 <!-- MATHBooks START -->
 
 <!-- CalculusBooks -->
-    <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;"> Calculus Books</h1>
-      <p style="text-align:center">Location: SeL:2 ,colum:4</p>
+    <section class="book_section "style="margin-top: 130px;">
+      <h3 style="text-align: center;"> Calculus Books</h3>
+      <p style="text-align:center ;">Location: SeL:2 ,colum:4</p>
       <div class="container book">
             
         <div class="row">

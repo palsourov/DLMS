@@ -6,7 +6,7 @@
 
 <!--PHAYSICBOOKS START -->
   <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">Physics Books</h1>
+      <h3 style="text-align: center; margin-top: 130px;">Physics Books</h3>
       <p style="text-align:center">Location: SeL:5 ,Coloum:10</p>
       <div class="container book">
             

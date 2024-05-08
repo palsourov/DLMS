@@ -8,7 +8,7 @@
 
  <!-- C _programmingBooks -->
     <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;"> C Programming Books</h1>
+      <h3 style="text-align: center; margin-top: 130px;"> C Programming Books</h3>
       <p style="text-align:center">Location: SeL:2 ,colum:1</p>
       <div class="container book">
             
@@ -124,7 +124,7 @@
 
   <!-- JAVA _programmingBooks START -->
   <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;"> JAVA Programming Books</h1>
+      <h3 style="text-align: center; margin-top: 130px;"> JAVA Programming Books</h3>
       <p style="text-align:center">Location: SeL:2 ,colum:2</p>
       <div class="container book">
             

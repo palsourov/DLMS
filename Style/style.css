@@ -66,6 +66,10 @@ nav {
   background: #ffffff;
   padding-bottom: 40px;
 }
+.book_section p{
+  font-style:italic;
+  text-transform: capitalize;
+}
 
 .book {
   margin-top: 4rem;
