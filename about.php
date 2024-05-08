@@ -3,14 +3,18 @@
     ?>
      <div class="section-about">
         <div class="container">
+        <h3>WELCOME TO THE MU LIBRARY</h3>
             <div class="row">
             <div class="col-lg-6 col-md-4 ">
                     <div class="description">
-                        <h3>WELCOME TO THE MU LIBRARY</h3>
-                        <p class="lh-lg">Metropolitan University is located in Sylhet.It was founded in 2003
-                         by a social worker named Toufique Rahman Chowdhury.The users/researchers have connectivity with the rest
-                        of the world and access to the information and knowledge through the 
-                        Library...</p>
+                        
+                        <p class="lh-lg">The central Library "Professor M. Habibur Rahman Library Hall" was named
+                        in memory of the second VC (late) of Metropolitan University since 2003.The library Situated
+                         on the first floor of the academic building. The area of the Library is over 4500 sq. ft.
+                         The library offers a spacious environment that can accommodate over 100 students at a time.
+                          The Library is the backbone of the research and development activities of Metropolitan 
+                          University.The users/researchers have connectivity with the rest of the world and access
+                           to the information and knowledge through the Library...</p>
                     </div>
                     <button type="button" class="btn btn-secondary">Read More</button>
                 </div>
