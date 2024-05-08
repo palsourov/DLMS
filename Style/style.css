@@ -2,7 +2,9 @@
   margin: 0;
   padding: 0;
 }
-
+body {
+  background: #dff6ff;
+}
 li {
   list-style: none;
 }
@@ -10,6 +12,13 @@ li a {
   text-decoration: none;
   color: #ffffffbd;
 }
+h3 {
+  font-weight: 600;
+  color: #1a374d;
+  text-align: center;
+  font-family: arial;
+}
+/* header start */
 nav img {
   border-radius: 50%;
   margin-right: 5px;
@@ -23,6 +32,9 @@ nav {
 .login:hover {
   color: white;
 }
+/* header end */
+
+/* Banner start */
 .bannerImg {
   height: 580px;
   width: 100%;
@@ -45,12 +57,25 @@ nav {
   border-radius: 4px;
   text-shadow: 4px 3px black;
 }
+/* Banner end */
+
+/* book_section start */
+.book_section {
+  border-radius: 25px;
+  margin-top: 40px;
+  background: #ffffff;
+  padding-bottom: 40px;
+}
 
 .book {
   margin-top: 4rem;
 }
 .card img {
   height: 18rem;
+  transition: 0.5s;
+}
+.card img:hover {
+  transform: scale(0.9);
 }
 .card .btn {
   width: 100px;
@@ -58,35 +83,37 @@ nav {
   text-align: center;
   margin-left: 16px;
 }
+/* book_section end */
 
-/* about --- pdp */
+/* about --- pdp start*/
 
-.section-about{
-  margin-top: 100px;
+.section-about {
+  margin-top: 60px;
+  background: #faf7f1;
+  padding: 35px;
 }
-.description p{
+.description p {
   margin-top: 30px;
   line-height: 10px;
 }
-.section-about h3{
+.section-about h3 {
   font-weight: bold;
   color: #1a374d;
   text-align: center;
 }
-.video{
+.video {
   margin-top: 30px;
 }
-.aboutBriefly{
+.aboutBriefly {
   margin-top: 100px;
 }
-.aboutBriefly h3{
+.aboutBriefly h3 {
   color: #1a374d;
 }
-.aboutBriefly p{
- line-height: 30px;
+.aboutBriefly p {
+  line-height: 30px;
 }
-
-
+/* about --- pdp end*/
 /* Footer start */
 
 .footer {
@@ -112,3 +139,4 @@ footer .footer_links {
 footer a:hover {
   color: #47b5ff;
 }
+/* Footer end */
