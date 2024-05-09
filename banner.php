@@ -36,13 +36,13 @@
           <div class="carousel-item">
             <img src="./img/img2.jpg" class="bannerImg" />
             <div class="bannerCaption carousel-caption d-none d-md-block">
-              <h2>Reading books removes sorrow from the heart.</h2>
+              <h3>Reading books removes sorrow from the heart.</h3>
             </div>
           </div>
           <div class="carousel-item">
             <img src="./img/img3.jpg" class="bannerImg" />
             <div class="bannerCaption carousel-caption d-none d-md-block">
-              <h2>Unread books make hollow minds.</h2>
+              <h3>Unread books make hollow minds.</h3>
             </div>
           </div>
         </div>

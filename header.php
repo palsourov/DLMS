@@ -30,7 +30,7 @@
             height="40px"
             width="40px"
           />
-          <h2>DLMS.</h2></a
+          <h3 class="dlms">DLMS.</h3></a
         >
 
         <!--toggle button-->
@@ -54,7 +54,7 @@
         >
           <div class="offcanvas-header border-bottom text-white">
           <img src="./img/logo.jpg" alt="" height="40px" width="40px" />
-            <h2 class="offcanvas-title" id="offcanvasNavbarLabel">DLMS.</h2>
+            <h3 class="offcanvas-title" id="offcanvasNavbarLabel">DLMS.</h3>
           </div>
 
           <!--Navmenu-->

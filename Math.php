@@ -1,5 +1,6 @@
+
 <!-- THIS IS HEADER SECTION -->
-<?php 
+   <?php 
         require_once("header.php");
     ?>
 <!-- THIS IS HEADER SECTION END-->
@@ -7,8 +8,8 @@
 <!-- MATHBooks START -->
 
 <!-- CalculusBooks -->
-    <section class="book_section "style="margin-top: 130px;">
-      <h3 style="text-align: center; padding-top:20px"> Calculus Books</h3>
+    <section class="book_section container shadow p-3 mb-5 bg-body-tertiary  "style="margin-top: 130px;">
+      <h2> Calculus Books</h2>
       <p style="text-align:center ;">Location: SeL:2 ,colum:4</p>
       <div class="container book">
             
@@ -119,11 +120,11 @@
         </div>
       </div>
     </section>
- <!-- CALCULUS BOOKS END -->
+<!-- CALCULUS BOOKS END -->
 
- <!-- DISCRIET MATHEMATIC END   -->
- <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;"> DISCTIET MATHEMATIC BOOKS</h1>
+<!-- DISCRIET MATHEMATIC END   -->
+   <section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px"> 
+      <h2> Discreat Mathematic Books</h2>
       <p style="text-align:center">Location: SeL:3 ,colum:8</p>
       <div class="container book">
             
@@ -199,11 +200,11 @@
         </div>
         
     </section>
- <!-- DISCRIET MATHEMATIC END  -->
+<!-- DISCRIET MATHEMATIC END  -->
 
- <!-- DIFFERENCE MATHS BOOKS START -->
- <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">Mental Math Books</h1>
+<!-- DIFFERENCE MATHS BOOKS START -->
+     <section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px">
+      <h2>Mental Math Books</h2>
       <p style="text-align:center">Location: SeL:9 ,colum:18</p>
       <div class="container book">
             
@@ -314,10 +315,10 @@
         </div>
       </div>
     </section>
- <!-- DIFFERENCE MATH BOOKS END -->
+<!-- DIFFERENCE MATH BOOKS END -->
 
 
- <!-- MATHBooks END -->
+<!-- MATHBooks END -->
   
 <!-- THIS IS FOOTER SECTION -->
   <?php 

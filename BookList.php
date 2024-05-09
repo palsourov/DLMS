@@ -2,8 +2,8 @@
         require_once("header.php");
     ?>
 <!-- book section start -->
- <section class="book_section container shadow-sm p-3 mb-5"style="margin-top:130px;">
-      <h3 class="pop_books text-center pt-4" style="margin-top:30px;">Most Popular Books</h3>
+ <section class="book_section container shadow p-3 mb-5 bg-body-tertiary  "style="margin-top:130px;">
+      <h2 class="pop_books">Most Popular Books</h2>
       <div class="container book">
             
         <div class="row">

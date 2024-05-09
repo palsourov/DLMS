@@ -6,9 +6,9 @@
 
 <!-- PROGRAMMING BOOK SECTION -->
 
- <!-- C _programmingBooks -->
-    <section class="book_section">
-      <h3 style="text-align: center; margin-top: 130px;"> C Programming Books</h3>
+<!-- C _programmingBooks -->
+  <section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px">
+      <h2> C Programming Books</h2>
       <p style="text-align:center">Location: SeL:2 ,colum:1</p>
       <div class="container book">
             
@@ -119,12 +119,12 @@
         </div>
       </div>
     </section>
- <!-- C _programmingBooks END -->
+<!-- C _programmingBooks END -->
 
 
-  <!-- JAVA _programmingBooks START -->
-  <section class="book_section">
-      <h3 style="text-align: center; margin-top: 130px;"> JAVA Programming Books</h3>
+<!-- JAVA _programmingBooks START -->
+ <section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px">
+      <h2> JAVA Programming Books</h2>
       <p style="text-align:center">Location: SeL:2 ,colum:2</p>
       <div class="container book">
             
@@ -235,12 +235,11 @@
         </div>
       </div>
     </section>
-  <!-- JAVA _programmingBooks END -->
+<!-- JAVA _programmingBooks END -->
 
-  <!-- PYTHON _programmingBooks START -->
-  <section class="book_section">
-       
-      <h1 style="text-align: center; margin-top: 70px;"> PYTHON Programming Books</h1>
+<!-- PYTHON _programmingBooks START -->
+ <section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px">
+      <h2> PYTHON Programming Books</h2>
       <p style="text-align:center">Location: SeL:2 ,colum:3</p>
         
       <div class="container book"> 
@@ -317,11 +316,11 @@
         </div>
       </div>
     </section>
-  <!-- PYTHON _programmingBooks END -->
+<!-- PYTHON _programmingBooks END -->
 
-  <!-- JavaScript _programmingBooks START -->
-  <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;"> JavaScript Programming Books</h1>
+<!-- JavaScript _programmingBooks START -->
+ <section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px">
+      <h2 > JavaScript Programming Books</h2>
       <p style="text-align:center">Location: SeL:2 ,colum:4</p>
       <div class="container book">
             
@@ -399,11 +398,11 @@
         </div>
       </div>
     </section>
-  <!-- JavaScript _programmingBooks END -->
+<!-- JavaScript _programmingBooks END -->
 
-  <!-- HTML & CSS Books START -->
-  <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">HTML & CSS Programming Books</h1>
+<!-- HTML & CSS Books START -->
+  <section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px">
+      <h2>HTML & CSS Programming Books</h2>
       <p style="text-align:center">Location: SeL:2 ,colum:5</p>
       <div class="container book">
             
@@ -481,7 +480,7 @@
         </div>
       </div>
     </section>
-  <!-- HTML & CSS Books END -->
+<!-- HTML & CSS Books END -->
     
  <!-- PROGRAMMING BOOK SECTION END--> 
 

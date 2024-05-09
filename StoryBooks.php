@@ -1,12 +1,12 @@
 <!-- THIS IS HEADER SECTION -->
-<?php 
+ <?php 
         require_once("header.php");
     ?>
 <!-- THIS IS HEADER SECTION END-->
 
 <!--STORYBOOKS START -->
-  <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">Story Books</h1>
+<section class="book_section container shadow p-3 mb-5 bg-body-tertiary " style="margin-top:130px">
+      <h2 >Story Books</h2>
       <p style="text-align:center">Location: SeL:2 ,Row:1 </p>
       <div class="container book">
             
@@ -188,6 +188,7 @@
       </div>
       
     </section>
+    
 <!--STORYBOOKS END -->
 
   
