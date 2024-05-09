@@ -10,9 +10,10 @@
      <?php 
         require_once("about.php");
       ?>
+    
+    
+  
     <?php 
         require_once("footer.php");
     ?>
 
-  
-    
