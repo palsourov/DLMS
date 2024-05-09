@@ -86,6 +86,3 @@
     </section>
 <!-- book section end -->
 
-<?php 
-        require_once("footer.php");
- ?>

@@ -2,7 +2,7 @@
         require_once("header.php");
     ?>
      <div class="section-about ">
-     <h2>About Us</h2>
+       <h2>About Us</h2>
         <div class="container pt-5 d-flex ">
             <div class="row">
             <div class="col-lg-6 col-md-4 AboutDescription  ">
@@ -28,6 +28,3 @@
             </div>
         </div>
     </div>
- <?php 
-        require_once("footer.php");
-    ?>
