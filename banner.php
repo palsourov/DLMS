@@ -1,7 +1,9 @@
 <?php 
         require_once("header.php");
     ?>
-<section class="banner" style="height: 50%">
+
+<!-- BANNER START -->
+    <section class="banner" style="height: 50%;margin-top:65px">
       <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-indicators">
           <button
@@ -66,4 +68,5 @@
         </button>
       </div>
     </section>
-    <!-- banner section end -->
+<!-- banner section end -->
+
