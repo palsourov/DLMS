@@ -1,6 +1,6 @@
 <?php 
-        require_once("header.php");
-    ?>
+ require_once("header.php");
+?>
 <!-- book section start -->
  <section class="book_section container shadow p-3 mb-5 bg-body-tertiary  "style="margin-top:130px;">
       <h2 class="pop_books">Most Popular Books</h2>
@@ -12,7 +12,6 @@
                 require("Gnosis/config/configer.php");
                 $query="SELECT * FROM `add_book`";
                 $data_sharing=mysqli_query($connect,$query);
-                $count=0;
                 while($row=mysqli_fetch_assoc($data_sharing))
                 {
                     
@@ -21,11 +20,7 @@
                     $picture=$row['book_picture'];
                     $author=$row['author'];
                     $bookDetail=$row['book-Detail'];
-                    if($count==4){
-                      break;
-                    }else{
-                      $count++;
-                    }
+                   
                     ?>
             <div class="bookCard">
                <div class="card p-2 m-2 shadow p-3 mb-5 bg-body-tertiary rounded" style="width: 18rem">
@@ -45,9 +40,17 @@
                 }
           ?>
 <!-- this is book list -->
-            <a href="books.php" class="btn btn-primary">See More</a>    
+              
 
       </div>
     </section>
 <!-- book section end -->
+
+<!-- this is footer section -->
+<?php
+
+require("footer.php");
+?>
+<!-- this is footer section -->
+
 

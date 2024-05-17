@@ -5,7 +5,7 @@
        <h2>About Us</h2>
         <div class="container pt-5 d-flex ">
             <div class="row">
-            <div class="col-lg-6 col-md-4 AboutDescription  ">
+            <div class="col-lg-6 col-md-4 AboutDescription p-3 ">
                     <div class="description">
                         
                         <p class="lh-lg ">The central Library "Professor M. Habibur Rahman Library Hall" was named
@@ -16,7 +16,7 @@
                           University.The users/researchers have connectivity with the rest of the world and access
                            to the information and knowledge through the Library...</p>
                     </div>
-                    <button type="button" class="btn btn-secondary ">Read More</button>
+                    <a href="abooutBriefly.php" type="button" class="btn btn-primary ">Read More</a>
                 </div>
                 <div class="col-lg-5 col-md-4 AboutVideo">
                     <div class="video">
@@ -28,3 +28,8 @@
             </div>
         </div>
     </div>
+    
+    
+<?php
+require("footer.php");
+?>

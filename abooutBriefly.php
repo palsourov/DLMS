@@ -38,5 +38,5 @@ their library card and return the book within the library hour.</p><br>
 </div>
 
 <?php 
-        require_once("footer.php");
+require_once("footer.php");
 ?>
