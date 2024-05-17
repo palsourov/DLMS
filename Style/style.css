@@ -135,6 +135,22 @@ nav {
   text-align: justify;
 }
 /* about --- pdp end*/
+
+/*contact -----start*/
+
+.contact{
+  margin-top: 100px;
+}
+.contactPart{
+  text-align: center;
+  border-radius: 3px;
+  background-color: #fff;
+  height: 350px;
+  padding-top: 20px;
+}
+
+/*contact -----end*/
+
 /* Footer start */
 
 .footer {
