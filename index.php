@@ -12,7 +12,7 @@
       ?>
     
     <?php 
-        require_once("contac.php");
+        require_once("contact.php");
     ?>
 
   
