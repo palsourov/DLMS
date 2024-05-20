@@ -30,7 +30,7 @@
             height="40px"
             width="40px"
           />
-          <h2>DLMS.</h2></a
+          <h3 class="dlms">DLMS.</h3></a
         >
 
         <!--toggle button-->
@@ -54,7 +54,7 @@
         >
           <div class="offcanvas-header border-bottom text-white">
           <img src="./img/logo.jpg" alt="" height="40px" width="40px" />
-            <h2 class="offcanvas-title" id="offcanvasNavbarLabel">DLMS.</h2>
+            <h3 class="offcanvas-title" id="offcanvasNavbarLabel">DLMS.</h3>
           </div>
 
           <!--Navmenu-->
@@ -63,21 +63,21 @@
               class="navbar-nav justify-content-center align-items-center flex-grow-1 pe-3"
             >
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
+                <a class="nav-link" href="about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Services</a>
+                <a class="nav-link" href="books.php">Books</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
               </li>
             </ul>
             <!--Login-->
             <div class="login justify-content-center align-items-center d-flex">
-              <a href="#"
+              <a href="Gnosis/home.php"
                 ><button type="button" class="login btn btn-outline-info">
                   Login
                 </button></a

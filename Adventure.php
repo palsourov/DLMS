@@ -5,9 +5,12 @@
 <!-- THIS IS HEADER SECTION END-->
 
 <!-- ADVENTUREBooks -->
-  <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;"> Adventure Books</h1>
-      <p style="text-align:center">Location: SeL:5 ,row:4</p>
+  <section class="book_section container shadow p-3 mb-5 bg-body-tertiary  " style="margin-top:130px;">
+      <div class="heading">
+        <h2> Adventure Books</h2>
+         <p style="text-align:center ">Location: SeL:5 ,Row:4</p>
+      </div>
+      
       <div class="container book">
             
         <div class="row">

@@ -1,7 +1,9 @@
 <?php 
         require_once("header.php");
     ?>
-<section class="banner" style="height: 50%">
+
+<!-- BANNER START -->
+    <section class="banner" style="height: 50%;margin-top:65px">
       <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-indicators">
           <button
@@ -36,13 +38,13 @@
           <div class="carousel-item">
             <img src="./img/img2.jpg" class="bannerImg" />
             <div class="bannerCaption carousel-caption d-none d-md-block">
-              <h2>Reading books removes sorrow from the heart.</h2>
+              <h3>Reading books removes sorrow from the heart.</h3>
             </div>
           </div>
           <div class="carousel-item">
             <img src="./img/img3.jpg" class="bannerImg" />
             <div class="bannerCaption carousel-caption d-none d-md-block">
-              <h2>Unread books make hollow minds.</h2>
+              <h3>Unread books make hollow minds.</h3>
             </div>
           </div>
         </div>
@@ -66,4 +68,5 @@
         </button>
       </div>
     </section>
-    <!-- banner section end -->
+<!-- banner section end -->
+

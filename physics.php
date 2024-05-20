@@ -5,8 +5,8 @@
 <!-- THIS IS HEADER SECTION END-->
 
 <!--PHAYSICBOOKS START -->
-  <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">Physics Books</h1>
+  <section class="book_section container shadow p-3 mb-5 bg-body-tertiary "style= "margin-top:130px;">
+      <h2>Physics Books</h2>
       <p style="text-align:center">Location: SeL:5 ,Coloum:10</p>
       <div class="container book">
             

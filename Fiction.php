@@ -5,9 +5,9 @@
 <!-- THIS IS HEADER SECTION END-->
 
 <!--FECTIONBOOKS START -->
-  <section class="book_section">
-      <h1 style="text-align: center; margin-top: 70px;">Fection Books</h1>
-      <p style="text-align:center">Location: SeL:8 ,row:6</p>
+  <section class="book_section container shadow p-3 mb-5 bg-body-tertiary "style="margin-top: 130px;">
+      <h2 >Fiction Books</h2>
+      <p style="text-align:center">Location: SeL:8 ,Row:6</p>
       <div class="container book">
             
         <div class="row">

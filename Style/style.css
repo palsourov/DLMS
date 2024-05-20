@@ -12,11 +12,13 @@ li a {
   text-decoration: none;
   color: #ffffffbd;
 }
-h3 {
+h2 {
   font-weight: 600;
   color: #1a374d;
   text-align: center;
   font-family: arial;
+  font-size: 37px;
+  padding-top: 20px;
 }
 /* header start */
 nav img {
@@ -25,6 +27,9 @@ nav img {
 }
 nav {
   background: #1a374d;
+}
+.dlms {
+  color: white;
 }
 .sidebar {
   background: #1a374d;
@@ -66,12 +71,24 @@ nav {
   background: #ffffff;
   padding-bottom: 40px;
 }
+.book_section p {
+  font-style: italic;
+  text-transform: capitalize;
+}
 
+.book {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
 .book {
   margin-top: 4rem;
 }
 .card {
   border: none;
+  box-shadow: 0px 2px 4px 5px #44414157;
 }
 .card img {
   height: 18rem;
@@ -93,20 +110,22 @@ nav {
 .section-about {
   margin-top: 60px;
   background: #faf7f1;
-  padding: 35px;
+  padding-bottom: 50px;
 }
 .description p {
   margin-top: 30px;
   line-height: 10px;
   text-align: justify;
+
+  padding: 5px;
 }
-.section-about h3 {
-  font-weight: bold;
-  color: #1a374d;
-  text-align: center;
+.AboutDescription {
+  background: white;
+  border-radius: 10px;
 }
-.video {
-  margin-top: 30px;
+.AboutVideo {
+  margin-left: 80px;
+  border-radius: 10px;
 }
 .aboutBriefly {
   margin-top: 100px;
@@ -122,6 +141,61 @@ nav {
   text-align: justify;
 }
 /* about --- pdp end*/
+
+/*contact -----start*/
+
+.contact {
+  margin-top: 80px;
+  color: #1a374d;
+  background: #fff;
+  padding-bottom: 50px;
+}
+.map {
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+}
+.contactPart {
+  border-radius: 3px;
+  background-color: #fff;
+  height: 350px;
+  padding: 20px;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+}
+.contactPart .location {
+  font-weight: 600;
+  color: #1a374d;
+  text-align: center;
+  font-family: arial;
+  padding-bottom: 20px;
+}
+.info i {
+  font-size: 20px;
+  color: #47b2e4;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #e7f5fb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #37517e;
+}
+.info p {
+  padding: 0 0 10px 60px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #6182ba;
+}
+/*contact -----end*/
+
 /* Footer start */
 
 .footer {
