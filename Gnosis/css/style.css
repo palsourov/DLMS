@@ -1,0 +1,317 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+body {
+  min-height: 100%;
+  background-color: #f5fffc;
+}
+
+.admin_login_form .submit-btn {
+  background-color: #00cd93;
+  width: 100%;
+  border-radius: 100px;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.admin_login_form .froget-pass {
+  justify-content: center;
+  display: flex;
+  color: white;
+}
+
+/*admin Dashboard part*/
+.admin {
+  padding: 12px;
+  background: linear-gradient(0deg, #00abf9 0%, #00cd93 100%);
+  color: white;
+  height: 700px;
+  border-radius: 10px;
+  min-height: 100%;
+}
+.admin .manu ul {
+  list-style-type: none;
+  margin: auto;
+}
+.admin .manu ul li {
+  margin-top: 20px;
+}
+.admin .manu ul li a i {
+  margin-right: 10px;
+  margin-left: 5px;
+}
+.admin .manu ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  display: block;
+  font-family: arial;
+  transform: 0.5s;
+  transition: 0.2s;
+}
+.admin .dashboard {
+  display: block;
+  text-decoration: none;
+  margin-top: 0px;
+  font-family: sans-serif;
+  color: white;
+  padding: 10px;
+}
+.admin .manu ul {
+  padding: 0px;
+}
+.admin .dashboard:hover {
+  text-decoration: none;
+  color: white;
+}
+.admin .manu ul .actives {
+  background: black;
+  border-radius: 10px;
+}
+
+.admin .manu ul li:hover {
+  background: black;
+  border-radius: 10px;
+}
+
+/* Admin dashboard part END*/
+
+/*Card part*/
+.card-body {
+    background: #fff5e1;
+    margin-top: 41px;
+    border-radius: 20px;
+    color: black;
+    text-align: center;
+    box-shadow: 0px 2px 23px #ddd;
+    cursor: crosshair;
+}
+.card-body.book-count h4 i {
+  color: #fca800;
+}
+.card-body .icon {
+  border-radius: 100%;
+  padding: 12px;
+  width: 54px;
+}
+.card-body.book-count .icon {
+  background: #fca8002b;
+  border-radius: 100%;
+  padding: 12px;
+  width: 54px;
+}
+.card-body.book-count .title {
+  color: #fca800;
+}
+.card-body .card-text {
+  text-align: right;
+  padding: 5px;
+  margin-right: 20px;
+}
+.card-body .title {
+  font-weight: 600;
+  color: #7b7b79;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.card-body .count {
+     font-weight: bolder;
+      font-size: 30px;
+      line-height: 2;
+      margin-top: -43px;
+      text-align: right;
+}
+.student-count {
+  background: #e0f8ea;
+  margin-top: 41px;
+  border-radius: 20px;
+  color: black;
+  text-align: center;
+}
+.count.book_rrr {
+  text-align: right;
+  margin-right: 25px;
+}
+.card-body.student-count .title {
+  color: #00ca50;
+}
+.card-body.student-count .icon i {
+  color: #00ca50;
+}
+.card-body.student-count .icon {
+  background: #b4edcc;
+}
+.issue-book-count {
+  background: #fdeae4;
+  margin-top: 41px;
+  border-radius: 20px;
+  color: black;
+  text-align: center;
+}
+.card-body.issue-book-count .title {
+  color: #dd3d0b;
+}
+.card-body .icon {
+    border-radius: 100%;
+    padding: 12px;
+    width: 54px;
+    background: bisque;
+    color: #dd3d0b;
+  }
+  .card-body .icon-4 {
+    text-align: initial;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    padding: 17px;
+    background: #ffd3c5;
+}
+h4.icon-5 {
+  text-align: initial;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+  padding: 16px 20px;
+  color: #00ca50;
+  background: #b4edcc;
+}
+.student-count .return-book {
+  color: #00ca50;
+  text-align: right;
+  font-size: larger;
+  font-weight: bolder;
+}
+h4.book-request {
+    font-size: 17px;
+    color: #fca800;
+    text-align: right;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+
+
+/*Card part END*/
+
+/*Add New Book*/
+.new-book {
+  display: flex;
+  justify-content: center;
+}
+.new-book form {
+  background: white;
+  padding: 30px;
+  border-radius: 30px;
+  width: 95%;
+  box-shadow: 0px 0px 50px #00b3e038;
+}
+.student .add-title {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: #7d7d7d;
+    text-align: right;
+    cursor: crosshair;
+    float: right;
+}
+.student .add-title i {
+    margin-right: 10px;
+    color: 333;
+}
+.new-book form label {
+    margin: 10px 0px;
+}
+.new-book form .form-control {
+    padding: 12px 15px;
+    border-radius: 10px;
+    color: #333;
+}
+
+/*Add New Book End*/
+
+.student-info-table
+{
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 95%;
+  overflow-x: auto;
+  box-shadow: 0px 0px 50px #3bc6c733;
+  margin-top: 20px;
+}
+.student-info-table .student {
+  margin-bottom: 30px;
+}
+.student-info-table .search-bar {
+
+  display: inline-flex;
+  width: 50%;
+  justify-content: center;
+  margin: auto;
+  margin-left: 44px;
+  float: right;
+}
+.student-info-table .search-bar input
+{
+  border-bottom: 1px solid #33333345 !important;
+  outline: none;
+  border: none;
+  border-radius: unset !important;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.student-info-table .search-bar .form-control:focus
+{
+  box-shadow: none;
+  border-bottom: 1px solid #ffb5b5 !important;
+}
+.book-img {
+  width: 50px;
+  margin: auto;
+  display: flex;
+}
+.serial {
+  width: 20px;
+  margin-right: 10px;
+  text-align: center;
+}
+.sing-up-form.student_info{
+  padding: 10px;
+}
+
+ .form-sing {
+  background: white;
+  padding: 40px;
+  border-radius: 25px;
+}
+.student-dtl-card{
+  background-color: white;
+  padding: 25px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 50px #3bc6c733;
+}
+.s-image{
+  max-width: 100%;
+  background: #fdeae4;
+  border-radius: 15px;
+  padding: 25px;
+  
+}
+.s-image img {
+  border-radius: 15px;
+}
+
+/*login part*/
+input#uname {
+  border-radius: 30px;
+  box-shadow: 0px 2px 1px brown;
+}
+input#pwd {
+  border-radius: 30px;
+  box-shadow: 0px 2px 0px;
+}
+/*login Part END*/
