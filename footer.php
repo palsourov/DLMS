@@ -40,27 +40,7 @@
       </ul>
     </div>
 
-    <!-- <div class="col-md-3">
-      <h4 >Our Services</h4>
-      <ul class="footer_links">
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Home</a>
-        </li>
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">About Us</a>
-        </li>
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Services</a>
-        </li>
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Privacy Policy</a>
-        </li>
-      </ul>
-    </div> -->
+    
 
     <div class="col-md-4">
       <h4>Follow Us</h4>
