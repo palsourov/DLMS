@@ -8,7 +8,7 @@
 <div class="container ">
   <div class="row ">
 
-    <div class="col-md-3">
+    <div class="col-md-4">
       <h4 class="footer_dlms">DLMS</h4>
       <p class="address mt-2">Metropolitan University <br/>
       Bateshwar, Sylhet-3104, Bangladesh<br/>
@@ -18,51 +18,31 @@
      <strong>Email:</strong> info@metrouni.edu.bd</p>
     </div>
 
-    <div class="col-md-3">
+    <div class="col-md-4">
       <h4 >Useful Links</h4>
       <ul class="footer_links">
         <li>
         <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Home</a>
+        <a href="index.php">Home</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">About Us</a>
+        <a href="about.php">About Us</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Services</a>
+        <a href="BookList.php">Books</a>
         </li>
         <li>
         <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Privacy Policy</a>
+        <a href="Gnosis/home.php">Login</a>
         </li>
       </ul>
     </div>
 
-    <div class="col-md-3">
-      <h4 >Our Services</h4>
-      <ul class="footer_links">
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Home</a>
-        </li>
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">About Us</a>
-        </li>
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Services</a>
-        </li>
-        <li>
-        <i class='bx bx-chevron-right' style='color:#2971cb' ></i>
-        <a href="#">Privacy Policy</a>
-        </li>
-      </ul>
-    </div>
+    
 
-    <div class="col-md-3">
+    <div class="col-md-4">
       <h4>Follow Us</h4>
      <a class="social_networks " href="https://www.facebook.com/metropolitanuniversity/"><i class="fs-3 p-2 text-white rounded-circle bx bxl-facebook " style='background:#5F9DF7' ></i></a>
      <a class="social_networks " href="https://www.linkedin.com/company/metropolitan-university001"> <i class="fs-3 p-2 text-white rounded-circle bx bxl-linkedin" style='background:#5F9DF7'></i></a>
